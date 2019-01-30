@@ -4,11 +4,11 @@ CardViewTest
 If I use [Material Card](http://material.io/develop/android/components/material-card-view),
 it works well in API 17+
 
-![API 17](https://raw.githubusercontent.com/dscoppelletti/CardViewTest/master/docs/images/Nexus_4_API_17.png)
+<IMG ALT="API 17" SRC="https://raw.githubusercontent.com/dscoppelletti/CardViewTest/master/docs/images/Nexus_4_API_17.png" WIDTH="192" HEIGHT="320">
 
 ... but in API 16 the background of the card is set to black.
 
-![API 16](https://raw.githubusercontent.com/dscoppelletti/CardViewTest/master/docs/images/Nexus_4_API_16.png)
+<IMG ALT="API 16" SRC="https://raw.githubusercontent.com/dscoppelletti/CardViewTest/master/docs/images/Nexus_4_API_16.png" WIDTH="192" HEIGHT="320">
 
 I have found in StackOverflow similar problems concerning the `CardView` from
 Support Library:
