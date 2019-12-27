@@ -1,6 +1,8 @@
 CardViewTest
 ============
 
+> This repository is archived: refer to Issue Tracker.
+
 If I use [Material Card](http://material.io/develop/android/components/material-card-view),
 it works well in devices with API 17+:
 
